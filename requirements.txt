@@ -1,0 +1,5 @@
+streamlit
+pandas
+plotly
+openpyxl # Para exportar para Excel
+sqlalchemy # Opcional, mas Pandas usa para interagir melhor com DBs às vezes
